@@ -13,11 +13,11 @@ Ini dataset matakuliah data mining study case dari penjualan makanan ringan
 
 ---
 # Dataset 3
-![WhatsApp Image 2020-11-14 at 08 42 15 (1)](https://user-images.githubusercontent.com/52682756/99210655-f6bebc80-27f8-11eb-86dd-eacc59ceea57.jpeg)
+![WhatsApp Image 2020-11-14 at 08 42 15](https://user-images.githubusercontent.com/52682756/99210718-1e158980-27f9-11eb-82ac-26668de3541d.jpeg)
 ---
 
 # Dataset 4
-
+![WhatsApp Image 2020-11-14 at 08 42 15 (1)](https://user-images.githubusercontent.com/52682756/99210655-f6bebc80-27f8-11eb-86dd-eacc59ceea57.jpeg)
 ---
 
 # Dataset 5
