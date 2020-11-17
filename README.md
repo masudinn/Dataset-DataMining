@@ -8,36 +8,36 @@ Ini dataset matakuliah data mining study case dari penjualan makanan ringan
 ---
 
 # Dataset 2
-![WhatsApp Image 2020-11-14 at 08 42 14](https://user-images.githubusercontent.com/52682756/99210301-0be71b80-27f8-11eb-9b48-3825e3b739dc.jpeg)
-
+![Dataset 2](https://user-images.githubusercontent.com/52682756/99370508-59df4a80-28f0-11eb-90cd-ca538a50ae09.jpeg)
 ---
 # Dataset 3
-![WhatsApp Image 2020-11-14 at 08 42 15](https://user-images.githubusercontent.com/52682756/99210718-1e158980-27f9-11eb-82ac-26668de3541d.jpeg)
+![Dataset 3](https://user-images.githubusercontent.com/52682756/99370555-69f72a00-28f0-11eb-83e6-909d6d937089.jpeg)
 ---
 
 # Dataset 4
-![WhatsApp Image 2020-11-14 at 08 42 15 (1)](https://user-images.githubusercontent.com/52682756/99210655-f6bebc80-27f8-11eb-86dd-eacc59ceea57.jpeg)
+![Dataset 4](https://user-images.githubusercontent.com/52682756/99370610-7aa7a000-28f0-11eb-8a7b-b43b783a8c8e.jpeg)
 ---
 
 # Dataset 5
-![WhatsApp Image 2020-11-14 at 08 42 16](https://user-images.githubusercontent.com/52682756/99210780-4c936480-27f9-11eb-9d34-e52751951e81.jpeg)
+![Dataset 5](https://user-images.githubusercontent.com/52682756/99370659-8d21d980-28f0-11eb-9c34-af72ee2df0fc.jpeg)
 ---
 
 # Dataset 6
-![WhatsApp Image 2020-11-14 at 08 42 17](https://user-images.githubusercontent.com/52682756/99210904-9e3bef00-27f9-11eb-88f7-68b89b2cfca7.jpeg)
+![Dataset 6](https://user-images.githubusercontent.com/52682756/99370717-9ca12280-28f0-11eb-8a01-47b661476e3f.jpeg)
 ---
 
 # Dataset 7
-![WhatsApp Image 2020-11-14 at 08 42 17 (1)](https://user-images.githubusercontent.com/52682756/99210864-81072080-27f9-11eb-9d95-45f6ac42ed65.jpeg)
+![Dataset 7](https://user-images.githubusercontent.com/52682756/99370771-af1b5c00-28f0-11eb-8d47-1b6dd26e8e48.jpeg)
 ---
 
 # Dataset 8
-![WhatsApp Image 2020-11-14 at 08 42 18](https://user-images.githubusercontent.com/52682756/99211090-1d312780-27fa-11eb-9cd6-a7392aa3fef3.jpeg)
+![Dataset 8](https://user-images.githubusercontent.com/52682756/99370834-bf333b80-28f0-11eb-945e-1ccb3c4e3f0b.jpeg)
 ---
 
 # Dataset 9
-![WhatsApp Image 2020-11-14 at 08 42 18 (1)](https://user-images.githubusercontent.com/52682756/99211050-f8d54b00-27f9-11eb-8c6d-f54582301e0e.jpeg)
+![Dataset 9](https://user-images.githubusercontent.com/52682756/99370878-ceb28480-28f0-11eb-87df-f8d02aee6c86.jpeg)
 ---
 
 # Dataset 10
-![WhatsApp Image 2020-11-14 at 08 42 19](https://user-images.githubusercontent.com/52682756/99211153-45b92180-27fa-11eb-8f33-ce543464e9e5.jpeg)
+![Dataset 10](https://user-images.githubusercontent.com/52682756/99370913-db36dd00-28f0-11eb-9cbc-c30ecf23a47c.jpeg)
+
