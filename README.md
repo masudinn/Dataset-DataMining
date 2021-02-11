@@ -1,5 +1,5 @@
 # Dataset-DataMining
-Ini dataset matakuliah data mining study case dari penjualan makanan ringan
+Dataset matakuliah data mining study case dari penjualan makanan ringan
 
 
 ---
